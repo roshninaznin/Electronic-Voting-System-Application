@@ -1,6 +1,6 @@
 ## Electronic Voting System
 
-![Project](https://github.com/user-attachments/assets/d8f21d6b-fbb2-4316-8fc0-b5b06faf38d8)
+![Project](https://github.com/user-attachments/assets/5f72dd7d-3d22-4fe3-9dbf-1556a62dc3de)
 
 
 ## Description
@@ -37,13 +37,13 @@ The Electronic Voting System is a C# application that allows users to manage and
   - Log in, manage voters, elections, and candidates.
   - View and monitor vote results.
   
-![Admin](https://github.com/user-attachments/assets/3f6bb64c-d845-45eb-b616-4ae09add65e5)
+![Admin](https://github.com/user-attachments/assets/000f9bf0-f5bc-46c5-a5ad-f34f8ff56ed3)
 
 
 - Voters can:
   - Register, log in, select an election, vote and view results.
     
-![Voter](https://github.com/user-attachments/assets/8c17cf1f-8f9a-4ae0-b895-bc67fb2b0344)
+![Voter](https://github.com/user-attachments/assets/c57ac82d-4ed7-4e7c-8d1e-4ac90d584908)
     
 
 ## Features
