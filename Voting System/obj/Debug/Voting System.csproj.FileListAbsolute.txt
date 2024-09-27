@@ -1,0 +1,26 @@
+C:\Users\Asus\source\repos\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\Asus\source\repos\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting System.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Add_Update_Candidate.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Add_Update_Election.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Admin_Dashboard.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Admin_Login.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Cast_Vote_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Check_Votes_Status_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Introduction.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Manage_Candidates_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Manage_Elections_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Manage_Voters_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Opencs.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Properties.Resources.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Registration.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.View_Candidates_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.View_Votes_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.viewresult.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Voter_Dashboard.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Voter_Login_Form.resources
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting System.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting System.exe
+C:\Users\Asus\source\repos\Voting System\Voting System\obj\Debug\Voting System.pdb
+C:\Users\Asus\source\repos\Voting System\Voting System\bin\Debug\Voting System.pdb
