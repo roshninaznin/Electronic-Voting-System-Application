@@ -16,7 +16,7 @@ The Electronic Voting System is a C# application that allows users to manage and
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/roshninaznin/Electronic-Voting-System
+    git clone https://github.com/roshninaznin/Electronic-Voting-System-Application
     ```
 3. click open .sln file
 4. Go to Server Explorer
