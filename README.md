@@ -25,8 +25,8 @@ The Electronic Voting System is a C# application that allows users to manage and
 7. Copy connection String
 8. Open DB.cs on VotingSystemRepository
 9. Edit ,and Paste the connection String And Save
-10.For demo data for Admin ID : 1, Username: Admin and Password : manager123
-14. Run the project.
+10. For demo data for Admin ID : 1, Username: Admin and Password : manager123
+11. Run the project.
 
 ## Modules
  - Admin
